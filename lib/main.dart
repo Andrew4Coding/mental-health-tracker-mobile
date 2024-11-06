@@ -1,6 +1,6 @@
 // Main Dart
 import 'package:flutter/material.dart';
-import 'package:mental_health_tracker_1/menu.dart';
+import 'package:mental_health_tracker_1/screens/menu.dart';
 
 void main() {
   runApp(const MyApp());
